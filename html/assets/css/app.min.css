@@ -8,6 +8,10 @@
   font-size: 20px !important;
 }
 
+.mt-20{
+  margin-top: 20px !important;
+}
+
 :root{--heading-color:#0D0E1D;
     --body-color:#0D0E1D;
     --accent-color:#dec192;
